@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChartApp</string>
+    <string name="title_activity_chart_layout">ChartLayout</string>
+    <string name="title_activity_portofolio_layout">PortofolioLayout</string>
+</resources>
